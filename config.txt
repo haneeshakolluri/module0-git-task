@@ -1,4 +1,8 @@
 # Service config
+<<<<<<< HEAD
+timeout=60
+=======
 # Timeout agreed with ops team
 timeout=45
+>>>>>>> origin/main
 retries=3
